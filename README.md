@@ -1,14 +1,16 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p align="center"> 
+            「 🥵 ᴀʟʟᴇɢɪᴀɴᴄᴇ ᴍᴀᴄʜɪɴᴇ ʙᴏᴛ 🥵 」
 
-   <img src="https://telegra.ph/file/44404fb4065057fc2f31b.jpg" alt="StringGen"> 
+   <img src="https://telegra.ph/file/5c994eb45aa0ee6e06775.jpg" alt="StringGen"> 
 
  </p> 
- 🥵 ᴀʟʟᴇɢɪᴀɴᴄᴇ ᴍᴀᴄʜɪɴᴇ ʙᴏᴛ 
-<br>
+ 
 
-  <a href="https://github.com/MrProgrammer72"><img alt="Website" src="https://img.shields.io/badge/ᴘʀᴏɢʀᴀᴍᴍᴇʀ-blue"></a>
-</br>
+
+  <a href="https://github.com/MrProgrammer72"><img alt="Website" src="https://img.shields.io/badge/ᴍʀ.ᴘʀᴏɢʀᴀᴍᴍᴇʀ ⌨-blue"></a>
+
+
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  # ❤️ ᴀʙᴏᴜᴛ
    An Advanced Telegram Chatbot Open Source Code
