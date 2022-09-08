@@ -73,7 +73,7 @@ async def chatboton(client, message):
             return await message.reply_text(
                 "You are not admin"
             )
-    is_Allegiance = .find_one({"chat_id": message.chat.id})
+    is_Allegiance = Allegiance.find_one({"chat_id": message.chat.id})
     if not is_Allegiance:           
         await message.reply_text(f"ᴀʟʟᴇɢɪᴀɴᴄᴇ ᴄʜᴀᴛʙᴏᴛ ɪꜱ ᴀʟʀᴇᴀᴅʏ ᴇɴᴀʙʟᴇᴅ ⚡")
     if is_Allegiance:
