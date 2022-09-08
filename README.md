@@ -19,27 +19,25 @@
 • Enter your ```MONGO_URL```,```API_ID```,```API_HASH``` And ```TOKEN```.
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/MrProgrammer72/AllegianceMachineBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
  
-### 🙄 ᴅᴇᴍᴏ/ᴛᴇsᴛ ʙᴏᴛ 
+### 😁 ᴅᴇᴍᴏ/ᴛᴇꜱᴛʙᴏᴛ
 
     
 
-   [sᴛʀɪɴɢ ʙᴏᴛ 🍑](https://telegram.me/StringFatherBot) 
+   [ᴀʟʟᴇɢɪᴀɴᴄᴇ ᴍᴀᴄʜɪɴᴇ ʙᴏᴛ 💔](https://telegram.me/none) 
 
-  
+  ``` 
+  Atleast Give A Star and Fork The Repo 💕 
 
- ``` 
-
- Atleast Give A Star and Fork The Repo 🖤 
-
- ```
+   ```
 
 
-### Support 
+### 💌 ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ & ᴄʜᴀɴɴᴇʟ
 
-<p align="center"><a href="https://t.me/metavoidsupport"> <img src="https://img.shields.io/badge/Meta%20Void%20Support-pink?style=for-the-badge" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://t.me/ADVENTURE_FAMILY"> <img src="https://img.shields.io/badge/ADVENTURE%20Void%20FAMILYS-pink?style=for-the-badge" width="220" height="38.45"/></a></p>
 
-<p align="center"><a href="https://t.me/metavoid"> <img src="https://img.shields.io/badge/Meta%20Void%20Channel-blue?style=for-the-badge" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://t.me/myworldGJ516"> <img src="https://img.shields.io/badge/MYWORLD%20Void%20GJ516-pink?style=for-the-badge" width="220" height="38.45"/></a></p>
+
 ## 💖 ᴄʀᴇᴅɪᴛs 
 
- - » [𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦](https://github.com/AnonymousR1025)
-## © Copyright - MetaVoid (Moezilla)
+ - » [Ξ✘𝙋𝞡𝙍𝙏_𝙂𝚫𝘽𝘽𝚫𝙍](https://telegram.me/export_gabbar)
+
