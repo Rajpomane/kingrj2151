@@ -77,7 +77,7 @@ async def chatboton(client, message):
     if not is_Allegiance:           
         await message.reply_text(f"Chatbot Is Already Enabled")
     if is_Allegiance:
-        vick.delete_one({"chat_id": message.chat.id})
+        Allegiance.delete_one({"chat_id": message.chat.id})
         await message.reply_text(f"ChatBot Is Enable!")
     
 
