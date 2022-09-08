@@ -13,9 +13,9 @@
 
 # 🚀 ᴅᴇᴘʟᴏʏ  ʜᴇʀᴏᴋᴜ
 
-  <img src="https://readme-typing-svg.herokuapp.com?color=0000FF&width=420&lines=The+easiest+way+to+deploy+this+bot⚡;Managed+by+Export+Gabbar%E2%9D%A4%EF%B8%8F"> 
-
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFA500&width=420&lines=The+easiest+way+to+deploy+this+bot⚡;Managed+by+Export+Gabbar%E2%9D%A4%EF%B8%8F"> 
  </p>
+    
 • Enter your ```MONGO_URL```,```API_ID```,```API_HASH``` And ```TOKEN```.
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/MrProgrammer72/AllegianceMachineBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
  
