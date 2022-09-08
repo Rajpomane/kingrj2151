@@ -1,3 +1,4 @@
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p align="center"> 
 
    <img src="https://telegra.ph/file/44404fb4065057fc2f31b.jpg" alt="StringGen"> 
@@ -8,6 +9,7 @@
 
   <a href="https://github.com/MrProgrammer72"><img alt="Website" src="https://img.shields.io/badge/ᴘʀᴏɢʀᴀᴍᴍᴇʀ-blue"></a>
 </br>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  # ❤️ ᴀʙᴏᴜᴛ
    An Advanced Telegram Chatbot Open Source Code
 
@@ -30,7 +32,7 @@
   Atleast Give A Star and Fork The Repo 💕 
 
    ```
-
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### 💌 ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ & ᴄʜᴀɴɴᴇʟ
 
@@ -41,4 +43,5 @@
 ## 💖 ᴄʀᴇᴅɪᴛs 
 
  - » [Ξ✘𝙋𝞡𝙍𝙏_𝙂𝚫𝘽𝘽𝚫𝙍](https://telegram.me/export_gabbar)
+ - <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
