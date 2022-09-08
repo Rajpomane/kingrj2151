@@ -3,10 +3,11 @@
    <img src="https://telegra.ph/file/44404fb4065057fc2f31b.jpg" alt="StringGen"> 
 
  </p> 
- 🥵 ᴀʟʟᴇɢɪᴀɴᴄᴇ ᴍᴀᴄʜɪɴᴇ ʙᴏᴛ
+ 🥵 ᴀʟʟᴇɢɪᴀɴᴄᴇ ᴍᴀᴄʜɪɴᴇ ʙᴏᴛ 
+<br>
 
-<a href="https://github.com/MrProgrammer72"><img alt="Website" src="https://img.shields.io/badge/ᴘʀᴏɢʀᴀᴍᴍᴇʀ-blue"></a>
-
+  <a href="https://github.com/MrProgrammer72"><img alt="Website" src="https://img.shields.io/badge/ᴘʀᴏɢʀᴀᴍᴍᴇʀ-blue"></a>
+</br>
  # ❤️ ᴀʙᴏᴜᴛ
    An Advanced Telegram Chatbot Open Source Code
 
@@ -33,9 +34,9 @@
 
 ### 💌 ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ & ᴄʜᴀɴɴᴇʟ
 
-<p align="center"><a href="https://t.me/ADVENTURE_FAMILY"> <img src="https://img.shields.io/badge/ADVENTURE%20Void%20FAMILYS-pink?style=for-the-badge" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://t.me/ADVENTURE_FAMILY"> <img src="https://img.shields.io/badge/ADVENTURE%20⚡%20FAMILYS-black?style=for-the-badge" width="220" height="38.45"/></a></p>
 
-<p align="center"><a href="https://t.me/myworldGJ516"> <img src="https://img.shields.io/badge/MYWORLD%20Void%20GJ516-pink?style=for-the-badge" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://t.me/myworldGJ516"> <img src="https://img.shields.io/badge/MYWORLD%20⚡%20GJ516-black?style=for-the-badge" width="220" height="38.45"/></a></p>
 
 ## 💖 ᴄʀᴇᴅɪᴛs 
 
