@@ -44,14 +44,14 @@ async def start(client, message):
                          " ᴏᴡɴᴇʀ ", url=f"https://t.me/export_gabbar" 
                      ), 
                      InlineKeyboardButton( 
-                         "🍒 sᴜᴘᴘᴏʀᴛ 🍒", url=f"https://t.me/ADVENTURE_FAMILYS" 
+                         " sᴜᴘᴘᴏʀᴛ ", url=f"https://t.me/ADVENTURE_FAMILYS" 
                      ) 
                  ],[ 
                      InlineKeyboardButton( 
-                         "", switch_inline_query_current_chat="" 
+                         " ᴍᴜꜱɪᴄ ʙᴏᴛ ", url=f"https://t.me/GJ516_VCPLAYER_bot"
                      ), 
                      InlineKeyboardButton( 
-                         "💡Git repo💡", url="https://telegra.ph/file/9b0455dae14d5639f936d.mp4" 
+                         " Git repo ", url="https://telegra.ph/file/9b0455dae14d5639f936d.mp4" 
                      )] 
              ] 
         ), 
