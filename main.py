@@ -5,7 +5,7 @@ import requests
 import random
 import os
 import re
-
+from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 
 API_ID = os.environ.get("API_ID", None) 
 API_HASH = os.environ.get("API_HASH", None) 
@@ -32,7 +32,30 @@ async def is_admins(chat_id: int):
 
 @bot.on_message(filters.command("start"))
 async def start(client, message):
-        await message.reply_text("ʜɪ! ᴍʏ ɴᴀᴍᴇ ɪꜱ ᴀʟʟᴇɢɪᴀɴᴄᴇ. ɪ'ᴍ ᴀɴ ᴀʀᴛɪꜰɪᴄɪᴀʟ ɪɴᴛᴇʟʟɪɢᴇɴᴄᴇ ᴍᴀɴᴀɢᴇᴅ ʙʏ ᴇxᴘᴏʀᴛ ɢᴀʙʙᴀʀ 🤍\n /chatbot - [on|off]")
+        await message.reply_text("ʜɪ! ᴍʏ ɴᴀᴍᴇ ɪꜱ ᴀʟʟᴇɢɪᴀɴᴄᴇ. ɪ'ᴍ ᴀɴ ᴀʀᴛɪꜰɪᴄɪᴀʟ ɪɴᴛᴇʟʟɪɢᴇɴᴄᴇ ᴍᴀɴᴀɢᴇᴅ ʙʏ ᴇxᴘᴏʀᴛ ɢᴀʙʙᴀʀ 🤍\n /chatbot - [on|off]"),
+                 reply_markup=InlineKeyboardMarkup( 
+             [ 
+                 [ 
+                     InlineKeyboardButton( 
+                         " ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ ", url=f"https://t.me/{bu}?startgroup=true" 
+                        ), 
+                   ],[ 
+                     InlineKeyboardButton( 
+                         " ᴏᴡɴᴇʀ ", url=f"https://t.me/export_gabbar" 
+                     ), 
+                     InlineKeyboardButton( 
+                         "🍒 sᴜᴘᴘᴏʀᴛ 🍒", url=f"https://t.me/ADVENTURE_FAMILYS" 
+                     ) 
+                 ],[ 
+                     InlineKeyboardButton( 
+                         "", switch_inline_query_current_chat="" 
+                     ), 
+                     InlineKeyboardButton( 
+                         "💡Git repo💡", url="https://telegra.ph/file/9b0455dae14d5639f936d.mp4" 
+                     )] 
+             ] 
+        ), 
+     )
 
 
 @bot.on_message(
