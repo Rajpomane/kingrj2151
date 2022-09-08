@@ -32,7 +32,8 @@ async def is_admins(chat_id: int):
 
 @bot.on_message(filters.command("start"))
 async def start(client, message):
-        await message.reply_text("Hi! My name is Ishi. I'm an Artificial Intelligence\n /chatbot - [on|off]")
+        await message.reply_text("ʜɪ! ᴍʏ ɴᴀᴍᴇ ɪꜱ ᴀʟʟᴇɢɪᴀɴᴄᴇ 💕. ɪ'ᴍ ᴀɴ ᴀʀᴛɪꜰɪᴄɪᴀʟ ɪɴᴛᴇʟʟɪɢᴇɴᴄᴇ ᴍᴀɴᴀɢᴇᴅ ʙʏ ᴇxᴘᴏʀᴛ ɢᴀʙʙᴀʀ✨.
+\n /chatbot - [on|off]")
 
 
 @bot.on_message(
@@ -53,9 +54,9 @@ async def chatbotofd(client, message):
     is_Allegiance = Allegiance.find_one({"chat_id": message.chat.id})
     if not is_Allegiance:
         Allegiance.insert_one({"chat_id": message.chat.id})
-        await message.reply_text(f"Chatbot Disabled!")
+        await message.reply_text(f"ᴀʟʟᴇɢɪᴀɴᴄᴇ ᴄʜᴀᴛʙᴏᴛ ᴅɪꜱᴀʙʟᴇᴅ 🥺!")
     if is_Allegiance:
-        await message.reply_text(f"ChatBot Is Already Disabled")
+        await message.reply_text(f"ᴀʟʟᴇɢɪᴀɴᴄᴇ ᴄʜᴀᴛʙᴏᴛ ɪꜱ ᴀʟʀᴇᴀᴅʏ ᴅɪꜱᴀʙʟᴇᴅ 🥺")
     
 
 @bot.on_message(
@@ -75,10 +76,10 @@ async def chatboton(client, message):
             )
     is_Allegiance = .find_one({"chat_id": message.chat.id})
     if not is_Allegiance:           
-        await message.reply_text(f"Chatbot Is Already Enabled")
+        await message.reply_text(f"ᴀʟʟᴇɢɪᴀɴᴄᴇ ᴄʜᴀᴛʙᴏᴛ ɪꜱ ᴀʟʀᴇᴀᴅʏ ᴇɴᴀʙʟᴇᴅ ⚡")
     if is_Allegiance:
         Allegiance.delete_one({"chat_id": message.chat.id})
-        await message.reply_text(f"ChatBot Is Enable!")
+        await message.reply_text(f"ᴀʟʟᴇɢɪᴀɴᴄᴇ ᴄʜᴀᴛʙᴏᴛ ɪꜱ ᴇɴᴀʙʟᴇ ⚡!")
     
 
 @bot.on_message(
