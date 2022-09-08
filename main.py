@@ -32,7 +32,7 @@ async def is_admins(chat_id: int):
 
 @bot.on_message(filters.command("start"))
 async def start(client, message):
-        await message.reply_text("ʜɪ! ᴍʏ ɴᴀᴍᴇ ɪꜱ ᴀʟʟᴇɢɪᴀɴᴄᴇ 💕. ɪ'ᴍ ᴀɴ ᴀʀᴛɪꜰɪᴄɪᴀʟ ɪɴᴛᴇʟʟɪɢᴇɴᴄᴇ ᴍᴀɴᴀɢᴇᴅ ʙʏ ᴇxᴘᴏʀᴛ ɢᴀʙʙᴀʀ✨.\n /chatbot - [on|off]")
+        await message.reply_text("ʜɪ! ᴍʏ ɴᴀᴍᴇ ɪꜱ ᴀʟʟᴇɢɪᴀɴᴄᴇ 💕. ɪ'ᴍ ᴀɴ ᴀʀᴛɪꜰɪᴄɪᴀʟ ɪɴᴛᴇʟʟɪɢᴇɴᴄᴇ ᴍᴀɴᴀɢᴇᴅ ʙʏ ᴇxᴘᴏʀᴛ ɢᴀʙʙᴀʀ✨.\n /chatbot - [ᴏɴ|ᴏꜰꜰ]")
 
 
 @bot.on_message(
@@ -85,7 +85,7 @@ async def chatboton(client, message):
     filters.command("chatbot", prefixes=["/", ".", "?", "-"])
     & ~filters.private)
 async def chatbot(client, message):
-    await message.reply_text(f"**Usage:**\n/chatbot [on|off] only group")
+    await message.reply_text(f"**Usage:**\n/chatbot [ᴏɴ|ᴏꜰꜰ] ᴏɴʟʏ ɢʀᴏᴜᴘ 😇")
 
 
 @bot.on_message(
