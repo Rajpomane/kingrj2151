@@ -26,7 +26,7 @@
 
     
 
-   [ᴀʟʟᴇɢɪᴀɴᴄᴇ ᴍᴀᴄʜɪɴᴇ ʙᴏᴛ 💔](https://telegram.me/none) 
+   [ᴀʟʟᴇɢɪᴀɴᴄᴇ ᴍᴀᴄʜɪɴᴇ ʙᴏᴛ 💔](https://telegram.me/AllegianceMachineBot) 
 
   ``` 
   Atleast Give A Star and Fork The Repo 💕 
