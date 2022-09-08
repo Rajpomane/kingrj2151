@@ -32,7 +32,7 @@ async def is_admins(chat_id: int):
 
 @bot.on_message(filters.command("start"))
 async def start(client, message):
-        await message.reply_text("ʜɪ! ᴍʏ ɴᴀᴍᴇ ɪꜱ ᴀʟʟᴇɢɪᴀɴᴄᴇ. ɪ'ᴍ ᴀɴ ᴀʀᴛɪꜰɪᴄɪᴀʟ ɪɴᴛᴇʟʟɪɢᴇɴᴄᴇ ᴍᴀɴᴀɢᴇᴅ ʙʏ ᴇxᴘᴏʀᴛ ɢᴀʙʙᴀʀ 🤍\n /chatbot - [on|off]"),
+        await message.reply_text("ʜɪ! ᴍʏ ɴᴀᴍᴇ ɪꜱ ᴀʟʟᴇɢɪᴀɴᴄᴇ. ɪ'ᴍ ᴀɴ ᴀʀᴛɪꜰɪᴄɪᴀʟ ɪɴᴛᴇʟʟɪɢᴇɴᴄᴇ ᴍᴀɴᴀɢᴇᴅ ʙʏ ᴇxᴘᴏʀᴛ ɢᴀʙʙᴀʀ.\n /chatbot - [on|off]"),
                  reply_markup=InlineKeyboardMarkup( 
              [ 
                  [ 
