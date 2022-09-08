@@ -124,7 +124,7 @@ async def Allegianceai(client: Client, message: Message):
    if message.reply_to_message:  
        Allegiancedb = MongoClient(MONGO_URL)
        Allegiance = Allegiancedb["AllegianceDb"]["Allegiance"] 
-       is_vick = vick.find_one({"chat_id": message.chat.id})    
+       is_Allegiance = Allegiance.find_one({"chat_id": message.chat.id})    
        getme = await bot.get_me()
        bot_id = getme.id                             
        if message.reply_to_message.from_user.id == bot_id: 
