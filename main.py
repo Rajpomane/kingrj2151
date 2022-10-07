@@ -33,7 +33,7 @@ async def is_admins(chat_id: int):
 
 @bot.on_message(filters.command("start"))
 async def start(client, message):
-        await message.reply_text(" ** ━━━━━━━ ᴊᴀʏ ━━━━━━━
+        await message.reply_text(" ━━━━━━━ ᴊᴀʏ ━━━━━━━
 ʜᴇʏ {message.from_user.mention()} ,
 
 ➻ ᴍʏ ɴᴀᴍᴇ ɪꜱ {BOT_NAME} . ɪ'ᴍ ᴀɴ ᴀʀᴛɪꜰɪᴄɪᴀʟ ɪɴᴛᴇʟʟɪɢᴇɴᴄᴇ.
@@ -42,7 +42,7 @@ async def start(client, message):
 
 ━━━━━━━ ᴊᴀʏ ━━━━━━━
                    ➣  *ᴜsᴇʀs :* {sql.num_users()} 
-           ➢  *ᴄʜᴀᴛs :* {sql.num_chats()}  ** ")
+           ➢  *ᴄʜᴀᴛs :* {sql.num_chats()}  ")
 
 
 @bot.on_message(
