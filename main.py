@@ -32,7 +32,7 @@ async def is_admins(chat_id: int):
 
 @bot.on_message(filters.command("start"))
 async def start(client, message):
-        await message.reply_text(""" ** ㅤ ㅤㅤ     ✦ ʙᴏᴛ ꜱᴛᴀʀᴛᴇᴅ ✦
+        await message.reply_text("""  ㅤ ㅤㅤ     ✦ ʙᴏᴛ ꜱᴛᴀʀᴛᴇᴅ ✦
 •❅─────✧❅✦❅✧─────❅•
 
 ๏ ʜᴇʏ ᴍʏ ɴᴀᴍᴇ ɪꜱ ʀᴜʙʏ. ɪ'ᴍ ᴀɴ ᴀʀᴛɪꜰɪᴄɪᴀʟ ɪɴᴛᴇʟʟɪɢᴇɴᴄᴇ.
@@ -41,7 +41,7 @@ async def start(client, message):
 ➻ ʜᴇʀᴇ ɪs ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ɢɪᴛʜᴜʙ](https://github.com/MrProgrammer72/AllegianceMachineBot)
 ๏ ᴍᴀᴅᴇ 🖤 ʙʏ : [ᴊᴀʏ](https://t.me/https://t.me/GJ516_DISCUSS_GROUP)
 •❅─────✧❅✦❅✧─────❅•
-                    ** """)
+                     """)
 
 
 @bot.on_message(
