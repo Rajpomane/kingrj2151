@@ -39,7 +39,7 @@ async def start(client, message):
 ➻ ᴄʜᴀᴛʙᴏᴛ [ᴏɴ|ᴏꜰꜰ] ᴏɴʟʏ ɢʀᴏᴜᴘ 
 ๏ sᴏᴜʀᴄᴇ ɪs ɴᴏᴡ ᴩᴜʙʟɪᴄ ᴀɴᴅ ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴍᴀᴋᴇ ʏᴏᴜʀ ᴏᴡɴ ʙᴏᴛ
 ➻ ʜᴇʀᴇ ɪs ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ɢɪᴛʜᴜʙ](https://github.com/MrProgrammer72/AllegianceMachineBot)
-๏ ᴍᴀᴅᴇ 🖤 ʙʏ : [ᴊᴀʏ](https://t.me/https://t.me/GJ516_DISCUSS_GROUP)
+๏ ᴍᴀᴅᴇ 🖤 ʙʏ : [ᴊᴀʏ](https://t.me/GJ516_DISCUSS_GROUP)
 •❅─────✧❅✦❅✧─────❅•
                      """)
 
