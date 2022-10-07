@@ -32,16 +32,16 @@ async def is_admins(chat_id: int):
 
 @bot.on_message(filters.command("start"))
 async def start(client, message):
-        await message.reply_text(""" ** ━━━━━━━ ᴊᴀʏ ━━━━━━━
-ʜᴇʏ {message.from_user.mention()} ,
+        await message.reply_text(""" ** ㅤ ㅤㅤ     ✦ ʙᴏᴛ ꜱᴛᴀʀᴛᴇᴅ ✦
+•❅─────✧❅✦❅✧─────❅•
 
-➻ ᴍʏ ɴᴀᴍᴇ ɪꜱ {BOT_NAME} . ɪ'ᴍ ᴀɴ ᴀʀᴛɪꜰɪᴄɪᴀʟ ɪɴᴛᴇʟʟɪɢᴇɴᴄᴇ.
+๏ ʜᴇʏ ᴍʏ ɴᴀᴍᴇ ɪꜱ ʀᴜʙʏ. ɪ'ᴍ ᴀɴ ᴀʀᴛɪꜰɪᴄɪᴀʟ ɪɴᴛᴇʟʟɪɢᴇɴᴄᴇ.
 ➻ ᴄʜᴀᴛʙᴏᴛ [ᴏɴ|ᴏꜰꜰ] ᴏɴʟʏ ɢʀᴏᴜᴘ 
-➻ ᴍᴀᴅᴇ 🖤 ʙʏ : [ᴊᴀʏ](https://t.me/https://t.me/GJ516_DISCUSS_GROUP)
-
-━━━━━━━ ᴊᴀʏ ━━━━━━━
-                   ➣  *ᴜsᴇʀs :* {sql.num_users()} 
-           ➢  *ᴄʜᴀᴛs :* {sql.num_chats()}  ** """)
+๏ sᴏᴜʀᴄᴇ ɪs ɴᴏᴡ ᴩᴜʙʟɪᴄ ᴀɴᴅ ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴍᴀᴋᴇ ʏᴏᴜʀ ᴏᴡɴ ʙᴏᴛ
+➻ ʜᴇʀᴇ ɪs ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ɢɪᴛʜᴜʙ](https://github.com/MrProgrammer72/AllegianceMachineBot)
+๏ ᴍᴀᴅᴇ 🖤 ʙʏ : [ᴊᴀʏ](https://t.me/https://t.me/GJ516_DISCUSS_GROUP)
+•❅─────✧❅✦❅✧─────❅•
+                    ** """)
 
 
 @bot.on_message(
