@@ -9,6 +9,10 @@
             "description": "mongo db url here",
             "required": true
         },
+        "BOT_NAME": {
+            "description": "your bot name",
+            "required":true
+        },
         "API_ID": {
             "description": "telegram api id here",
             "required": true
