@@ -34,7 +34,7 @@ async def is_admins(chat_id: int):
 async def start(client, message):
         await message.reply_text(""" ㅤ ㅤㅤ         ✦ ʙᴏᴛ ꜱᴛᴀʀᴛᴇᴅ ✦ 
   
- ๏ ʜᴇʏ ᴍʏ ɴᴀᴍᴇ ɪꜱ ʀᴜʙʏ. ɪ'ᴍ ᴀɴ ᴀʀᴛɪꜰɪᴄɪᴀʟ ɪɴᴛᴇʟʟɪɢᴇɴᴄᴇ [✨](https://te.legra.ph/file/f53590d38e24cdb32c54a.jpg). 
+ ๏ ʜᴇʏ ᴍʏ ɴᴀᴍᴇ ɪꜱ ʀᴜʙʏ. ɪ'ᴍ ᴀɴ ᴀʀᴛɪꜰɪᴄɪᴀʟ ɪɴᴛᴇʟʟɪɢᴇɴᴄᴇ [✨](https://te.legra.ph/file/44af9621ecebfcc6d2fb1.jpg). 
 ──────────────────
  ➻ ᴄʜᴀᴛʙᴏᴛ [ᴏɴ|ᴏꜰꜰ] ᴏɴʟʏ ɢʀᴏᴜᴘ 
  ➻ sᴏᴜʀᴄᴇ ɪs ɴᴏᴡ ᴩᴜʙʟɪᴄ ᴀɴᴅ ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴍᴀᴋᴇ ʏᴏᴜʀ ᴏᴡɴ ʙᴏᴛ
