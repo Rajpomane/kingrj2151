@@ -2,13 +2,13 @@
 <p align="center"> 
             「 🥵 ᴀʟʟᴇɢɪᴀɴᴄᴇ ᴍᴀᴄʜɪɴᴇ ʙᴏᴛ 🥵 」
 
-   <img src="https://te.legra.ph/file/f53590d38e24cdb32c54a.jpg" alt="StringGen"> 
+   <img src="https://telegra.ph/file/a23e56ed4af0ed92d62c1.jpg" alt="StringGen"> 
 
  </p> 
  
 
 
-  <a href="https://github.com/MrProgrammer72"><img alt="Website" src="https://img.shields.io/badge/ᴍʀ.ᴘʀᴏɢʀᴀᴍᴍᴇʀ ⌨-blue"></a>
+  <a href="https://https://github.com/Rajpomane"><img alt="Website" src="https://img.shields.io/badge/ᴍʀ.ᴘʀᴏɢʀᴀᴍᴍᴇʀ ⌨-blue"></a>
 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -44,7 +44,7 @@
 
 ## 💖 ᴄʀᴇᴅɪᴛs 
 
- - » [ᴍʀ.ᴘʀᴏɢʀᴀᴍᴍᴇʀ ⌨](https://github.com/MrProgrammer72)
+ - » [ᴍʀ.ᴘʀᴏɢʀᴀᴍᴍᴇʀ ⌨](https://github.com/Rajpomane)
  - » [ᴍᴏᴇᴢɪʟʟᴀ](https://github.com/MoeZilla)
  - <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
